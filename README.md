@@ -14,7 +14,7 @@ Explorar las capacidades de Streamlit mediante la creación de una app sencilla 
 ## 🚀 ¿Qué hace esta app?
 
 - Muestra componentes básicos de una interfaz Streamlit.
-- Carga y visualiza datos (opcional si se incluyó).
+- Carga y visualiza datos.
 - Permite la interacción con el usuario (sliders, botones, etc.).
 - Refresca los resultados en tiempo real.
 
